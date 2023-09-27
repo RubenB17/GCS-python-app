@@ -1,0 +1,11 @@
+In Ubunutu, we need to install python-pip thingy and if theres an error use this line: sudo hwclock --hctosys 
+after, use this line:   sudo apt-get update
+and run 		sudo apt install python3 python3-pip ipython3 
+			sudo apt install cython3
+			sudo apt-get install autoconf
+			sudo apt-get install openjdk-8-jdk
+			sudo apt-get install unzip	
+			sudo apt-get install zip	
+			sudo pip3 install --upgrade cython
+			sudo python setup.py install
+			
